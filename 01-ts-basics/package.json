@@ -1,0 +1,23 @@
+{
+  "name": "01-ts-basics",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "vite": "^7.1.2"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "SERHII KOMAROV <camarro84@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}
